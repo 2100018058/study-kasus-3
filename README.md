@@ -1,4 +1,4 @@
-# study-kasus-3
+# Study-Kasus-3
 
 [2100018001] [Arya Shiraath Barada]
 
